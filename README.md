@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Alvin!
 
 - 🔭 I’m currently taking path of being a Data Analyst
 - 🌱 I’m currently learning Data Science and analytics
