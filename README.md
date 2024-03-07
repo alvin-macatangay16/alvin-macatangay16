@@ -3,7 +3,7 @@
 - 🔭 I’m currently taking path of being a Data Analyst
 - 🌱 I’m currently learning Data Science and analytics
 -  [ DataCamp Profile](https://www.datacamp.com/portfolio/macatangayalvin2001)
--  [ LinkedIn Profile](www.linkedin.com/in/alvin-macatangay)
+-  [ LinkedIn Profile](https://www.linkedin.com/in/alvin-macatangay)
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
