@@ -8,4 +8,4 @@
  ⚡ Fun fact: ...<br/>
 
 
-[![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin-macatangay16&show_icons=true&theme=synthwave)](https://github.com/alvin-macatangay16/github-readme-stats)
+[![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin-macatangay16&show_icons=true&theme=merko)](https://github.com/alvin-macatangay16/github-readme-stats)
