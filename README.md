@@ -1,9 +1,9 @@
 ### Hi, I'm Alvin!
 
-🔭 I’m currently taking path of being a Data Analyst<br/>
+ 🔭 I’m currently Data Analyst path<br/>
  🌱 I’m currently learning Data Science and analytics<br/>
-  [ DataCamp Profile](https://www.datacamp.com/portfolio/macatangayalvin2001)<br/>
-  [ LinkedIn Profile](https://www.linkedin.com/in/alvin-macatangay)<br/>
+  Here's my [ DataCamp Profile](https://www.datacamp.com/portfolio/macatangayalvin2001)<br/>
+  Here's my [ LinkedIn Profile](https://www.linkedin.com/in/alvin-macatangay)<br/>
  📫 How to reach me: ...<br/>
  ⚡ Fun fact: ...<br/>
 
